@@ -1,0 +1,8 @@
+interface:
+  display_name: "Kapi Investing Research"
+  short_description: "卡皮巴菲特公开安全版投资科普研究库检索与写作辅助"
+  brand_color: "#D7263D"
+  default_prompt: "Use $kapi-investing-research to summarize a Kapi Buffett investing topic without impersonating the author."
+
+policy:
+  allow_implicit_invocation: true

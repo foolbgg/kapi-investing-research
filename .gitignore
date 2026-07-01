@@ -1,0 +1,13 @@
+# Keep the public repo clean
+images/
+*.jsonl
+notes_enriched.json
+notes_raw.jsonl
+ocr.jsonl
+comments.jsonl
+image_manifest.jsonl
+profile_seed.json
+logs/
+bin/
+__pycache__/
+.DS_Store

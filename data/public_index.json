@@ -1,0 +1,1524 @@
+{
+  "package": "kapi-investing-research-public",
+  "sourceAccount": {
+    "displayName": "卡皮巴菲特",
+    "xhsId": "dingtou_plan"
+  },
+  "scope": {
+    "capturedNotes": 32,
+    "profileDisplayedNoteCount": 235,
+    "capturedImagesOcrOnlyLocal": 418,
+    "capturedCommentsOnlyLocal": 311,
+    "publicPackageExcludes": [
+      "downloaded images",
+      "full OCR text",
+      "raw note detail JSON",
+      "raw comments and usernames",
+      "login-state URL query parameters"
+    ]
+  },
+  "topicCounts": {
+    "理财认知与财富目标": 28,
+    "美股指数与ETF": 27,
+    "资产配置": 9,
+    "AI与科技股": 9,
+    "券商港卡与出入金": 8,
+    "定投方法": 6,
+    "书单与知识输入": 3,
+    "杠杆ETF与波动损耗": 2,
+    "税务与合规": 2
+  },
+  "keywordTotals": {
+    "定投": 203,
+    "美股": 133,
+    "风险": 128,
+    "AI": 98,
+    "QQQ": 87,
+    "债券": 76,
+    "券商": 69,
+    "现金": 67,
+    "ETF": 64,
+    "标普": 60,
+    "QLD": 54,
+    "黄金": 50,
+    "港卡": 47,
+    "退休": 46,
+    "VOO": 43,
+    "资产配置": 41,
+    "DCA": 35,
+    "CRS": 32,
+    "纳指": 28,
+    "英伟达": 25,
+    "TQQQ": 25,
+    "股息": 18,
+    "EDCA": 16,
+    "QDII": 10
+  },
+  "notes": [
+    {
+      "order": 1,
+      "noteId": "68e77a7800000000040033d2",
+      "title": "什么是定投？为什么要定投？投什么、怎么投",
+      "date": "2025-10-09",
+      "topics": [
+        "定投方法",
+        "美股指数与ETF",
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "定投",
+        "DCA",
+        "EDCA",
+        "标普",
+        "美股",
+        "VOO",
+        "AI",
+        "风险"
+      ],
+      "imageCountCaptured": 20,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/68e77a7800000000040033d2",
+      "abstract": "Captured public-safe index entry for note '什么是定投？为什么要定投？投什么、怎么投'. Primary topics: 定投方法, 美股指数与ETF, 理财认知与财富目标."
+    },
+    {
+      "order": 2,
+      "noteId": "69b14d12000000000800eca8",
+      "title": "大厂裸辞靠股息生活的第3年，她回来找我",
+      "date": "03-11",
+      "topics": [
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "AI",
+        "黄金",
+        "股息",
+        "QLD",
+        "定投",
+        "现金",
+        "退休",
+        "风险"
+      ],
+      "imageCountCaptured": 11,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/69b14d12000000000800eca8",
+      "abstract": "Captured public-safe index entry for note '大厂裸辞靠股息生活的第3年，她回来找我'. Primary topics: 理财认知与财富目标."
+    },
+    {
+      "order": 3,
+      "noteId": "698053b1000000002801e67a",
+      "title": "周五因为黄白我输掉了全部，35岁的我还有机",
+      "date": "编辑于 02-02",
+      "topics": [
+        "理财认知与财富目标",
+        "美股指数与ETF",
+        "资产配置"
+      ],
+      "topKeywords": [
+        "债券",
+        "风险",
+        "标普",
+        "黄金",
+        "QLD",
+        "纳指",
+        "美股",
+        "ETF"
+      ],
+      "imageCountCaptured": 10,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/698053b1000000002801e67a",
+      "abstract": "Captured public-safe index entry for note '周五因为黄白我输掉了全部，35岁的我还有机'. Primary topics: 理财认知与财富目标, 美股指数与ETF, 资产配置."
+    },
+    {
+      "order": 4,
+      "noteId": "696dc0c3000000001a026b0f",
+      "title": "人生终极最佳资产配置策略",
+      "date": "01-19",
+      "topics": [
+        "资产配置",
+        "理财认知与财富目标",
+        "AI与科技股"
+      ],
+      "topKeywords": [
+        "债券",
+        "退休",
+        "风险",
+        "现金",
+        "美股",
+        "AI",
+        "资产配置",
+        "VOO"
+      ],
+      "imageCountCaptured": 17,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/696dc0c3000000001a026b0f",
+      "abstract": "Captured public-safe index entry for note '人生终极最佳资产配置策略'. Primary topics: 资产配置, 理财认知与财富目标, AI与科技股."
+    },
+    {
+      "order": 5,
+      "noteId": "695baa6e0000000022009f50",
+      "title": "别人推荐的理财书，这些我好像真看懂了",
+      "date": "01-05",
+      "topics": [
+        "书单与知识输入",
+        "理财认知与财富目标",
+        "美股指数与ETF"
+      ],
+      "topKeywords": [
+        "定投",
+        "AI",
+        "美股",
+        "QQQ",
+        "QLD",
+        "券商",
+        "CRS",
+        "风险"
+      ],
+      "imageCountCaptured": 11,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/695baa6e0000000022009f50",
+      "abstract": "Captured public-safe index entry for note '别人推荐的理财书，这些我好像真看懂了'. Primary topics: 书单与知识输入, 理财认知与财富目标, 美股指数与ETF."
+    },
+    {
+      "order": 6,
+      "noteId": "694bcb88000000001e024dff",
+      "title": "普通人如何才能拥有一千万呢？",
+      "date": "编辑于 2025-12-24",
+      "topics": [
+        "理财认知与财富目标",
+        "美股指数与ETF",
+        "书单与知识输入"
+      ],
+      "topKeywords": [
+        "黄金",
+        "风险",
+        "美股",
+        "现金",
+        "QQQ",
+        "QLD",
+        "券商"
+      ],
+      "imageCountCaptured": 13,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/694bcb88000000001e024dff",
+      "abstract": "Captured public-safe index entry for note '普通人如何才能拥有一千万呢？'. Primary topics: 理财认知与财富目标, 美股指数与ETF, 书单与知识输入."
+    },
+    {
+      "order": 7,
+      "noteId": "69450283000000001e032b66",
+      "title": "28岁大厂辞职后的我第一件事就是研究纳指",
+      "date": "2025-12-19",
+      "topics": [
+        "美股指数与ETF",
+        "理财认知与财富目标",
+        "AI与科技股"
+      ],
+      "topKeywords": [
+        "AI",
+        "纳指",
+        "定投",
+        "港卡",
+        "QLD"
+      ],
+      "imageCountCaptured": 10,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/69450283000000001e032b66",
+      "abstract": "Captured public-safe index entry for note '28岁大厂辞职后的我第一件事就是研究纳指'. Primary topics: 美股指数与ETF, 理财认知与财富目标, AI与科技股."
+    },
+    {
+      "order": 8,
+      "noteId": "693e5122000000001e00dca7",
+      "title": "因为爱看reddit我的炒股水平已经无人能敌了",
+      "date": "2025-12-14",
+      "topics": [
+        "AI与科技股",
+        "书单与知识输入",
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "美股",
+        "VOO",
+        "QQQ",
+        "定投",
+        "AI"
+      ],
+      "imageCountCaptured": 20,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/693e5122000000001e00dca7",
+      "abstract": "Captured public-safe index entry for note '因为爱看reddit我的炒股水平已经无人能敌了'. Primary topics: AI与科技股, 书单与知识输入, 理财认知与财富目标."
+    },
+    {
+      "order": 9,
+      "noteId": "6936a8c1000000001e02f234",
+      "title": "632分配法更适合普通人的理财分配 一般...",
+      "date": "2025-12-08",
+      "topics": [
+        "理财认知与财富目标",
+        "资产配置",
+        "美股指数与ETF"
+      ],
+      "topKeywords": [
+        "退休",
+        "QQQ",
+        "美股",
+        "定投",
+        "现金",
+        "风险",
+        "标普",
+        "港卡"
+      ],
+      "imageCountCaptured": 16,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/6936a8c1000000001e02f234",
+      "abstract": "Captured public-safe index entry for note '632分配法更适合普通人的理财分配 一般...'. Primary topics: 理财认知与财富目标, 资产配置, 美股指数与ETF."
+    },
+    {
+      "order": 10,
+      "noteId": "69327c2b000000001e031245",
+      "title": "新手必看！永久投资组合3000万持仓基金盘点",
+      "date": "2025-12-05",
+      "topics": [
+        "美股指数与ETF",
+        "资产配置",
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "定投",
+        "现金",
+        "VOO",
+        "AI",
+        "QQQ",
+        "QLD",
+        "美股",
+        "标普"
+      ],
+      "imageCountCaptured": 13,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/69327c2b000000001e031245",
+      "abstract": "Captured public-safe index entry for note '新手必看！永久投资组合3000万持仓基金盘点'. Primary topics: 美股指数与ETF, 资产配置, 理财认知与财富目标."
+    },
+    {
+      "order": 11,
+      "noteId": "692eda7f00000000190247c9",
+      "title": "28岁手上有80万如何进行资产配置",
+      "date": "2025-12-02",
+      "topics": [
+        "资产配置",
+        "美股指数与ETF",
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "定投",
+        "美股",
+        "黄金",
+        "现金",
+        "风险",
+        "标普",
+        "VOO",
+        "资产配置"
+      ],
+      "imageCountCaptured": 16,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/692eda7f00000000190247c9",
+      "abstract": "Captured public-safe index entry for note '28岁手上有80万如何进行资产配置'. Primary topics: 资产配置, 美股指数与ETF, 理财认知与财富目标."
+    },
+    {
+      "order": 12,
+      "noteId": "6926dea6000000001e00851c",
+      "title": "硅谷教父KAPI全面清仓英伟达",
+      "date": "2025-11-26",
+      "topics": [
+        "AI与科技股",
+        "理财认知与财富目标",
+        "美股指数与ETF"
+      ],
+      "topKeywords": [
+        "AI",
+        "美股",
+        "资产配置",
+        "债券",
+        "英伟达",
+        "QQQ",
+        "现金",
+        "定投"
+      ],
+      "imageCountCaptured": 19,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/6926dea6000000001e00851c",
+      "abstract": "Captured public-safe index entry for note '硅谷教父KAPI全面清仓英伟达'. Primary topics: AI与科技股, 理财认知与财富目标, 美股指数与ETF."
+    },
+    {
+      "order": 13,
+      "noteId": "69217cf2000000001e013907",
+      "title": "时间的玫瑰-小白应该如何开始定投纳指？",
+      "date": "编辑于 2025-11-22",
+      "topics": [
+        "美股指数与ETF",
+        "定投方法",
+        "券商港卡与出入金"
+      ],
+      "topKeywords": [
+        "定投",
+        "美股",
+        "风险",
+        "QLD",
+        "QQQ",
+        "纳指",
+        "标普",
+        "VOO"
+      ],
+      "imageCountCaptured": 16,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/69217cf2000000001e013907",
+      "abstract": "Captured public-safe index entry for note '时间的玫瑰-小白应该如何开始定投纳指？'. Primary topics: 美股指数与ETF, 定投方法, 券商港卡与出入金."
+    },
+    {
+      "order": 14,
+      "noteId": "691ed977000000001d03b894",
+      "title": "30岁500万家庭资产配置股票篇",
+      "date": "编辑于 01-18",
+      "topics": [
+        "美股指数与ETF",
+        "资产配置",
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "QQQ",
+        "VOO",
+        "QLD",
+        "AI",
+        "券商",
+        "现金",
+        "英伟达",
+        "TQQQ"
+      ],
+      "imageCountCaptured": 17,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/691ed977000000001d03b894",
+      "abstract": "Captured public-safe index entry for note '30岁500万家庭资产配置股票篇'. Primary topics: 美股指数与ETF, 资产配置, 理财认知与财富目标."
+    },
+    {
+      "order": 15,
+      "noteId": "6915b33e0000000007034d35",
+      "title": "TQQQ vs QLD vsQQQ 长持or定投磨损哥叫",
+      "date": "2025-11-13",
+      "topics": [
+        "杠杆ETF与波动损耗",
+        "美股指数与ETF",
+        "定投方法"
+      ],
+      "topKeywords": [
+        "QQQ",
+        "ETF",
+        "QLD",
+        "TQQQ",
+        "风险",
+        "定投",
+        "纳指",
+        "AI"
+      ],
+      "imageCountCaptured": 23,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/6915b33e0000000007034d35",
+      "abstract": "Captured public-safe index entry for note 'TQQQ vs QLD vsQQQ 长持or定投磨损哥叫'. Primary topics: 杠杆ETF与波动损耗, 美股指数与ETF, 定投方法."
+    },
+    {
+      "order": 16,
+      "noteId": "691430c10000000007036181",
+      "title": "美股小资金如何迅速做大",
+      "date": "2025-11-12",
+      "topics": [
+        "理财认知与财富目标",
+        "美股指数与ETF",
+        "券商港卡与出入金"
+      ],
+      "topKeywords": [
+        "美股",
+        "定投",
+        "风险",
+        "QQQ",
+        "TQQQ",
+        "券商",
+        "AI",
+        "纳指"
+      ],
+      "imageCountCaptured": 11,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/691430c10000000007036181",
+      "abstract": "Captured public-safe index entry for note '美股小资金如何迅速做大'. Primary topics: 理财认知与财富目标, 美股指数与ETF, 券商港卡与出入金."
+    },
+    {
+      "order": 17,
+      "noteId": "69117d56000000000402b6de",
+      "title": "美股跌、黄金跌美债也不涨什么情况？钱要放",
+      "date": "2025-11-10",
+      "topics": [
+        "资产配置",
+        "美股指数与ETF",
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "ETF",
+        "风险",
+        "美股",
+        "港卡",
+        "黄金",
+        "现金",
+        "券商",
+        "AI"
+      ],
+      "imageCountCaptured": 11,
+      "commentCountCaptured": 7,
+      "publicUrl": "https://www.xiaohongshu.com/explore/69117d56000000000402b6de",
+      "abstract": "Captured public-safe index entry for note '美股跌、黄金跌美债也不涨什么情况？钱要放'. Primary topics: 资产配置, 美股指数与ETF, 理财认知与财富目标."
+    },
+    {
+      "order": 18,
+      "noteId": "690c349e0000000004017c16",
+      "title": "CRS全球资产征税：海外投资要求补税、金额",
+      "date": "2025-11-06",
+      "topics": [
+        "税务与合规",
+        "美股指数与ETF",
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "CRS",
+        "港卡",
+        "券商",
+        "美股",
+        "股息",
+        "定投",
+        "现金",
+        "资产配置"
+      ],
+      "imageCountCaptured": 10,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/690c349e0000000004017c16",
+      "abstract": "Captured public-safe index entry for note 'CRS全球资产征税：海外投资要求补税、金额'. Primary topics: 税务与合规, 美股指数与ETF, 理财认知与财富目标."
+    },
+    {
+      "order": 19,
+      "noteId": "6909bd0d0000000005001846",
+      "title": "美股AI科技公司的泡沫到底有多大？",
+      "date": "2025-11-04",
+      "topics": [
+        "AI与科技股",
+        "美股指数与ETF",
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "AI",
+        "美股",
+        "现金",
+        "标普",
+        "债券"
+      ],
+      "imageCountCaptured": 6,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/6909bd0d0000000005001846",
+      "abstract": "Captured public-safe index entry for note '美股AI科技公司的泡沫到底有多大？'. Primary topics: AI与科技股, 美股指数与ETF, 理财认知与财富目标."
+    },
+    {
+      "order": 20,
+      "noteId": "69086af10000000004005186",
+      "title": "吃个炸鸡给我整爆仓了!?韩国炸鸡是英伟达的",
+      "date": "2025-11-03",
+      "topics": [
+        "AI与科技股",
+        "美股指数与ETF",
+        "杠杆ETF与波动损耗"
+      ],
+      "topKeywords": [
+        "美股",
+        "纳指",
+        "英伟达",
+        "定投",
+        "标普",
+        "现金",
+        "VOO",
+        "AI"
+      ],
+      "imageCountCaptured": 10,
+      "commentCountCaptured": 6,
+      "publicUrl": "https://www.xiaohongshu.com/explore/69086af10000000004005186",
+      "abstract": "Captured public-safe index entry for note '吃个炸鸡给我整爆仓了!?韩国炸鸡是英伟达的'. Primary topics: AI与科技股, 美股指数与ETF, 杠杆ETF与波动损耗."
+    },
+    {
+      "order": 21,
+      "noteId": "6902f6090000000004007a0a",
+      "title": "我要考虑放弃VOO和QQQ了",
+      "date": "编辑于 2025-11-15",
+      "topics": [
+        "美股指数与ETF",
+        "理财认知与财富目标",
+        "AI与科技股"
+      ],
+      "topKeywords": [
+        "QQQ",
+        "债券",
+        "ETF",
+        "定投",
+        "VOO",
+        "美股",
+        "AI",
+        "QLD"
+      ],
+      "imageCountCaptured": 13,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/6902f6090000000004007a0a",
+      "abstract": "Captured public-safe index entry for note '我要考虑放弃VOO和QQQ了'. Primary topics: 美股指数与ETF, 理财认知与财富目标, AI与科技股."
+    },
+    {
+      "order": 22,
+      "noteId": "69008d430000000007021eb4",
+      "title": "我该在场内还是场外买标普指数呀？QDII啥意",
+      "date": "编辑于 2025-10-29",
+      "topics": [
+        "券商港卡与出入金",
+        "美股指数与ETF",
+        "定投方法"
+      ],
+      "topKeywords": [
+        "标普",
+        "QDII",
+        "美股",
+        "券商",
+        "定投",
+        "现金",
+        "VOO",
+        "纳指"
+      ],
+      "imageCountCaptured": 14,
+      "commentCountCaptured": 8,
+      "publicUrl": "https://www.xiaohongshu.com/explore/69008d430000000007021eb4",
+      "abstract": "Captured public-safe index entry for note '我该在场内还是场外买标普指数呀？QDII啥意'. Primary topics: 券商港卡与出入金, 美股指数与ETF, 定投方法."
+    },
+    {
+      "order": 23,
+      "noteId": "68ff0d6800000000030392e9",
+      "title": "30岁有100万买些什么能够50岁退休？",
+      "date": "2025-10-27",
+      "topics": [
+        "理财认知与财富目标",
+        "美股指数与ETF",
+        "资产配置"
+      ],
+      "topKeywords": [
+        "风险",
+        "资产配置",
+        "黄金",
+        "定投",
+        "VOO",
+        "退休",
+        "DCA",
+        "QLD"
+      ],
+      "imageCountCaptured": 16,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/68ff0d6800000000030392e9",
+      "abstract": "Captured public-safe index entry for note '30岁有100万买些什么能够50岁退休？'. Primary topics: 理财认知与财富目标, 美股指数与ETF, 资产配置."
+    },
+    {
+      "order": 24,
+      "noteId": "68fafdb100000000070341c4",
+      "title": "猫笔刀老师被CRS税了,香港券商还能开吗",
+      "date": "编辑于 2025-11-12",
+      "topics": [
+        "税务与合规",
+        "券商港卡与出入金",
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "券商",
+        "美股",
+        "CRS",
+        "港卡",
+        "定投",
+        "QQQ",
+        "纳指",
+        "ETF"
+      ],
+      "imageCountCaptured": 10,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/68fafdb100000000070341c4",
+      "abstract": "Captured public-safe index entry for note '猫笔刀老师被CRS税了,香港券商还能开吗'. Primary topics: 税务与合规, 券商港卡与出入金, 理财认知与财富目标."
+    },
+    {
+      "order": 25,
+      "noteId": "68f8681c0000000007036e2d",
+      "title": "美股券商开户了能买些啥呢",
+      "date": "编辑于 02-02",
+      "topics": [
+        "券商港卡与出入金",
+        "美股指数与ETF",
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "风险",
+        "债券",
+        "标普",
+        "ETF",
+        "券商",
+        "美股",
+        "定投",
+        "QQQ"
+      ],
+      "imageCountCaptured": 14,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/68f8681c0000000007036e2d",
+      "abstract": "Captured public-safe index entry for note '美股券商开户了能买些啥呢'. Primary topics: 券商港卡与出入金, 美股指数与ETF, 理财认知与财富目标."
+    },
+    {
+      "order": 26,
+      "noteId": "68f6f9440000000004007b5e",
+      "title": "谁跟你说女人不会管钱的？记住这些斗嘴再也",
+      "date": "2025-10-21",
+      "topics": [
+        "理财认知与财富目标",
+        "美股指数与ETF",
+        "券商港卡与出入金"
+      ],
+      "topKeywords": [
+        "定投",
+        "美股",
+        "现金",
+        "股息",
+        "标普",
+        "黄金",
+        "纳指",
+        "券商"
+      ],
+      "imageCountCaptured": 9,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/68f6f9440000000004007b5e",
+      "abstract": "Captured public-safe index entry for note '谁跟你说女人不会管钱的？记住这些斗嘴再也'. Primary topics: 理财认知与财富目标, 美股指数与ETF, 券商港卡与出入金."
+    },
+    {
+      "order": 27,
+      "noteId": "68f5d1a3000000000300c8da",
+      "title": "为啥钱都流向了不缺钱的人",
+      "date": "2025-10-20",
+      "topics": [
+        "理财认知与财富目标",
+        "美股指数与ETF",
+        "AI与科技股"
+      ],
+      "topKeywords": [
+        "AI",
+        "风险",
+        "美股",
+        "券商",
+        "VOO",
+        "标普",
+        "港卡",
+        "CRS"
+      ],
+      "imageCountCaptured": 9,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/68f5d1a3000000000300c8da",
+      "abstract": "Captured public-safe index entry for note '为啥钱都流向了不缺钱的人'. Primary topics: 理财认知与财富目标, 美股指数与ETF, AI与科技股."
+    },
+    {
+      "order": 28,
+      "noteId": "68f1c97c000000000302f0af",
+      "title": "别说投资，大部分人连理财都不会",
+      "date": "编辑于 2025-11-07",
+      "topics": [
+        "理财认知与财富目标",
+        "美股指数与ETF",
+        "定投方法"
+      ],
+      "topKeywords": [
+        "黄金",
+        "定投",
+        "资产配置",
+        "现金",
+        "纳指",
+        "标普",
+        "美股",
+        "ETF"
+      ],
+      "imageCountCaptured": 14,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/68f1c97c000000000302f0af",
+      "abstract": "Captured public-safe index entry for note '别说投资，大部分人连理财都不会'. Primary topics: 理财认知与财富目标, 美股指数与ETF, 定投方法."
+    },
+    {
+      "order": 29,
+      "noteId": "68ef38e0000000000700d1dd",
+      "title": "我终于知道你们喜欢看啥了",
+      "date": "2025-10-15",
+      "topics": [
+        "理财认知与财富目标",
+        "美股指数与ETF",
+        "定投方法"
+      ],
+      "topKeywords": [
+        "定投",
+        "美股",
+        "港卡",
+        "券商",
+        "风险",
+        "VOO",
+        "黄金"
+      ],
+      "imageCountCaptured": 8,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/68ef38e0000000000700d1dd",
+      "abstract": "Captured public-safe index entry for note '我终于知道你们喜欢看啥了'. Primary topics: 理财认知与财富目标, 美股指数与ETF, 定投方法."
+    },
+    {
+      "order": 30,
+      "noteId": "68ea0aa90000000004023257",
+      "title": "美股大崩溃",
+      "date": "2025-10-11",
+      "topics": [
+        "美股指数与ETF",
+        "理财认知与财富目标",
+        "资产配置"
+      ],
+      "topKeywords": [
+        "美股",
+        "定投",
+        "VOO",
+        "港卡",
+        "黄金",
+        "QDII",
+        "资产配置",
+        "AI"
+      ],
+      "imageCountCaptured": 8,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/68ea0aa90000000004023257",
+      "abstract": "Captured public-safe index entry for note '美股大崩溃'. Primary topics: 美股指数与ETF, 理财认知与财富目标, 资产配置."
+    },
+    {
+      "order": 31,
+      "noteId": "68d3bbbe0000000012033540",
+      "title": "美股券商、港卡出入金相关一次性说清楚",
+      "date": "编辑于 02-03",
+      "topics": [
+        "券商港卡与出入金",
+        "美股指数与ETF",
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "港卡",
+        "券商",
+        "CRS",
+        "美股",
+        "资产配置",
+        "风险",
+        "股息",
+        "ETF"
+      ],
+      "imageCountCaptured": 18,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/68d3bbbe0000000012033540",
+      "abstract": "Captured public-safe index entry for note '美股券商、港卡出入金相关一次性说清楚'. Primary topics: 券商港卡与出入金, 美股指数与ETF, 理财认知与财富目标."
+    },
+    {
+      "order": 32,
+      "noteId": "68d2116a0000000013006977",
+      "title": "英伟达又新高了，各种开户规则更紧了，还不抓",
+      "date": "编辑于 05-22",
+      "topics": [
+        "AI与科技股",
+        "券商港卡与出入金",
+        "理财认知与财富目标"
+      ],
+      "topKeywords": [
+        "英伟达",
+        "美股",
+        "券商",
+        "AI",
+        "定投",
+        "港卡",
+        "现金",
+        "股息"
+      ],
+      "imageCountCaptured": 5,
+      "commentCountCaptured": 10,
+      "publicUrl": "https://www.xiaohongshu.com/explore/68d2116a0000000013006977",
+      "abstract": "Captured public-safe index entry for note '英伟达又新高了，各种开户规则更紧了，还不抓'. Primary topics: AI与科技股, 券商港卡与出入金, 理财认知与财富目标."
+    }
+  ],
+  "themeIndex": {
+    "定投方法": [
+      {
+        "order": 1,
+        "noteId": "68e77a7800000000040033d2",
+        "title": "什么是定投？为什么要定投？投什么、怎么投",
+        "date": "2025-10-09",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68e77a7800000000040033d2"
+      },
+      {
+        "order": 13,
+        "noteId": "69217cf2000000001e013907",
+        "title": "时间的玫瑰-小白应该如何开始定投纳指？",
+        "date": "编辑于 2025-11-22",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69217cf2000000001e013907"
+      },
+      {
+        "order": 15,
+        "noteId": "6915b33e0000000007034d35",
+        "title": "TQQQ vs QLD vsQQQ 长持or定投磨损哥叫",
+        "date": "2025-11-13",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6915b33e0000000007034d35"
+      },
+      {
+        "order": 22,
+        "noteId": "69008d430000000007021eb4",
+        "title": "我该在场内还是场外买标普指数呀？QDII啥意",
+        "date": "编辑于 2025-10-29",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69008d430000000007021eb4"
+      },
+      {
+        "order": 28,
+        "noteId": "68f1c97c000000000302f0af",
+        "title": "别说投资，大部分人连理财都不会",
+        "date": "编辑于 2025-11-07",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68f1c97c000000000302f0af"
+      },
+      {
+        "order": 29,
+        "noteId": "68ef38e0000000000700d1dd",
+        "title": "我终于知道你们喜欢看啥了",
+        "date": "2025-10-15",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68ef38e0000000000700d1dd"
+      }
+    ],
+    "美股指数与ETF": [
+      {
+        "order": 1,
+        "noteId": "68e77a7800000000040033d2",
+        "title": "什么是定投？为什么要定投？投什么、怎么投",
+        "date": "2025-10-09",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68e77a7800000000040033d2"
+      },
+      {
+        "order": 3,
+        "noteId": "698053b1000000002801e67a",
+        "title": "周五因为黄白我输掉了全部，35岁的我还有机",
+        "date": "编辑于 02-02",
+        "publicUrl": "https://www.xiaohongshu.com/explore/698053b1000000002801e67a"
+      },
+      {
+        "order": 5,
+        "noteId": "695baa6e0000000022009f50",
+        "title": "别人推荐的理财书，这些我好像真看懂了",
+        "date": "01-05",
+        "publicUrl": "https://www.xiaohongshu.com/explore/695baa6e0000000022009f50"
+      },
+      {
+        "order": 6,
+        "noteId": "694bcb88000000001e024dff",
+        "title": "普通人如何才能拥有一千万呢？",
+        "date": "编辑于 2025-12-24",
+        "publicUrl": "https://www.xiaohongshu.com/explore/694bcb88000000001e024dff"
+      },
+      {
+        "order": 7,
+        "noteId": "69450283000000001e032b66",
+        "title": "28岁大厂辞职后的我第一件事就是研究纳指",
+        "date": "2025-12-19",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69450283000000001e032b66"
+      },
+      {
+        "order": 9,
+        "noteId": "6936a8c1000000001e02f234",
+        "title": "632分配法更适合普通人的理财分配 一般...",
+        "date": "2025-12-08",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6936a8c1000000001e02f234"
+      },
+      {
+        "order": 10,
+        "noteId": "69327c2b000000001e031245",
+        "title": "新手必看！永久投资组合3000万持仓基金盘点",
+        "date": "2025-12-05",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69327c2b000000001e031245"
+      },
+      {
+        "order": 11,
+        "noteId": "692eda7f00000000190247c9",
+        "title": "28岁手上有80万如何进行资产配置",
+        "date": "2025-12-02",
+        "publicUrl": "https://www.xiaohongshu.com/explore/692eda7f00000000190247c9"
+      },
+      {
+        "order": 12,
+        "noteId": "6926dea6000000001e00851c",
+        "title": "硅谷教父KAPI全面清仓英伟达",
+        "date": "2025-11-26",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6926dea6000000001e00851c"
+      },
+      {
+        "order": 13,
+        "noteId": "69217cf2000000001e013907",
+        "title": "时间的玫瑰-小白应该如何开始定投纳指？",
+        "date": "编辑于 2025-11-22",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69217cf2000000001e013907"
+      },
+      {
+        "order": 14,
+        "noteId": "691ed977000000001d03b894",
+        "title": "30岁500万家庭资产配置股票篇",
+        "date": "编辑于 01-18",
+        "publicUrl": "https://www.xiaohongshu.com/explore/691ed977000000001d03b894"
+      },
+      {
+        "order": 15,
+        "noteId": "6915b33e0000000007034d35",
+        "title": "TQQQ vs QLD vsQQQ 长持or定投磨损哥叫",
+        "date": "2025-11-13",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6915b33e0000000007034d35"
+      },
+      {
+        "order": 16,
+        "noteId": "691430c10000000007036181",
+        "title": "美股小资金如何迅速做大",
+        "date": "2025-11-12",
+        "publicUrl": "https://www.xiaohongshu.com/explore/691430c10000000007036181"
+      },
+      {
+        "order": 17,
+        "noteId": "69117d56000000000402b6de",
+        "title": "美股跌、黄金跌美债也不涨什么情况？钱要放",
+        "date": "2025-11-10",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69117d56000000000402b6de"
+      },
+      {
+        "order": 18,
+        "noteId": "690c349e0000000004017c16",
+        "title": "CRS全球资产征税：海外投资要求补税、金额",
+        "date": "2025-11-06",
+        "publicUrl": "https://www.xiaohongshu.com/explore/690c349e0000000004017c16"
+      },
+      {
+        "order": 19,
+        "noteId": "6909bd0d0000000005001846",
+        "title": "美股AI科技公司的泡沫到底有多大？",
+        "date": "2025-11-04",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6909bd0d0000000005001846"
+      },
+      {
+        "order": 20,
+        "noteId": "69086af10000000004005186",
+        "title": "吃个炸鸡给我整爆仓了!?韩国炸鸡是英伟达的",
+        "date": "2025-11-03",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69086af10000000004005186"
+      },
+      {
+        "order": 21,
+        "noteId": "6902f6090000000004007a0a",
+        "title": "我要考虑放弃VOO和QQQ了",
+        "date": "编辑于 2025-11-15",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6902f6090000000004007a0a"
+      },
+      {
+        "order": 22,
+        "noteId": "69008d430000000007021eb4",
+        "title": "我该在场内还是场外买标普指数呀？QDII啥意",
+        "date": "编辑于 2025-10-29",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69008d430000000007021eb4"
+      },
+      {
+        "order": 23,
+        "noteId": "68ff0d6800000000030392e9",
+        "title": "30岁有100万买些什么能够50岁退休？",
+        "date": "2025-10-27",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68ff0d6800000000030392e9"
+      },
+      {
+        "order": 25,
+        "noteId": "68f8681c0000000007036e2d",
+        "title": "美股券商开户了能买些啥呢",
+        "date": "编辑于 02-02",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68f8681c0000000007036e2d"
+      },
+      {
+        "order": 26,
+        "noteId": "68f6f9440000000004007b5e",
+        "title": "谁跟你说女人不会管钱的？记住这些斗嘴再也",
+        "date": "2025-10-21",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68f6f9440000000004007b5e"
+      },
+      {
+        "order": 27,
+        "noteId": "68f5d1a3000000000300c8da",
+        "title": "为啥钱都流向了不缺钱的人",
+        "date": "2025-10-20",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68f5d1a3000000000300c8da"
+      },
+      {
+        "order": 28,
+        "noteId": "68f1c97c000000000302f0af",
+        "title": "别说投资，大部分人连理财都不会",
+        "date": "编辑于 2025-11-07",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68f1c97c000000000302f0af"
+      },
+      {
+        "order": 29,
+        "noteId": "68ef38e0000000000700d1dd",
+        "title": "我终于知道你们喜欢看啥了",
+        "date": "2025-10-15",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68ef38e0000000000700d1dd"
+      },
+      {
+        "order": 30,
+        "noteId": "68ea0aa90000000004023257",
+        "title": "美股大崩溃",
+        "date": "2025-10-11",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68ea0aa90000000004023257"
+      },
+      {
+        "order": 31,
+        "noteId": "68d3bbbe0000000012033540",
+        "title": "美股券商、港卡出入金相关一次性说清楚",
+        "date": "编辑于 02-03",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68d3bbbe0000000012033540"
+      }
+    ],
+    "理财认知与财富目标": [
+      {
+        "order": 1,
+        "noteId": "68e77a7800000000040033d2",
+        "title": "什么是定投？为什么要定投？投什么、怎么投",
+        "date": "2025-10-09",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68e77a7800000000040033d2"
+      },
+      {
+        "order": 2,
+        "noteId": "69b14d12000000000800eca8",
+        "title": "大厂裸辞靠股息生活的第3年，她回来找我",
+        "date": "03-11",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69b14d12000000000800eca8"
+      },
+      {
+        "order": 3,
+        "noteId": "698053b1000000002801e67a",
+        "title": "周五因为黄白我输掉了全部，35岁的我还有机",
+        "date": "编辑于 02-02",
+        "publicUrl": "https://www.xiaohongshu.com/explore/698053b1000000002801e67a"
+      },
+      {
+        "order": 4,
+        "noteId": "696dc0c3000000001a026b0f",
+        "title": "人生终极最佳资产配置策略",
+        "date": "01-19",
+        "publicUrl": "https://www.xiaohongshu.com/explore/696dc0c3000000001a026b0f"
+      },
+      {
+        "order": 5,
+        "noteId": "695baa6e0000000022009f50",
+        "title": "别人推荐的理财书，这些我好像真看懂了",
+        "date": "01-05",
+        "publicUrl": "https://www.xiaohongshu.com/explore/695baa6e0000000022009f50"
+      },
+      {
+        "order": 6,
+        "noteId": "694bcb88000000001e024dff",
+        "title": "普通人如何才能拥有一千万呢？",
+        "date": "编辑于 2025-12-24",
+        "publicUrl": "https://www.xiaohongshu.com/explore/694bcb88000000001e024dff"
+      },
+      {
+        "order": 7,
+        "noteId": "69450283000000001e032b66",
+        "title": "28岁大厂辞职后的我第一件事就是研究纳指",
+        "date": "2025-12-19",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69450283000000001e032b66"
+      },
+      {
+        "order": 8,
+        "noteId": "693e5122000000001e00dca7",
+        "title": "因为爱看reddit我的炒股水平已经无人能敌了",
+        "date": "2025-12-14",
+        "publicUrl": "https://www.xiaohongshu.com/explore/693e5122000000001e00dca7"
+      },
+      {
+        "order": 9,
+        "noteId": "6936a8c1000000001e02f234",
+        "title": "632分配法更适合普通人的理财分配 一般...",
+        "date": "2025-12-08",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6936a8c1000000001e02f234"
+      },
+      {
+        "order": 10,
+        "noteId": "69327c2b000000001e031245",
+        "title": "新手必看！永久投资组合3000万持仓基金盘点",
+        "date": "2025-12-05",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69327c2b000000001e031245"
+      },
+      {
+        "order": 11,
+        "noteId": "692eda7f00000000190247c9",
+        "title": "28岁手上有80万如何进行资产配置",
+        "date": "2025-12-02",
+        "publicUrl": "https://www.xiaohongshu.com/explore/692eda7f00000000190247c9"
+      },
+      {
+        "order": 12,
+        "noteId": "6926dea6000000001e00851c",
+        "title": "硅谷教父KAPI全面清仓英伟达",
+        "date": "2025-11-26",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6926dea6000000001e00851c"
+      },
+      {
+        "order": 14,
+        "noteId": "691ed977000000001d03b894",
+        "title": "30岁500万家庭资产配置股票篇",
+        "date": "编辑于 01-18",
+        "publicUrl": "https://www.xiaohongshu.com/explore/691ed977000000001d03b894"
+      },
+      {
+        "order": 16,
+        "noteId": "691430c10000000007036181",
+        "title": "美股小资金如何迅速做大",
+        "date": "2025-11-12",
+        "publicUrl": "https://www.xiaohongshu.com/explore/691430c10000000007036181"
+      },
+      {
+        "order": 17,
+        "noteId": "69117d56000000000402b6de",
+        "title": "美股跌、黄金跌美债也不涨什么情况？钱要放",
+        "date": "2025-11-10",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69117d56000000000402b6de"
+      },
+      {
+        "order": 18,
+        "noteId": "690c349e0000000004017c16",
+        "title": "CRS全球资产征税：海外投资要求补税、金额",
+        "date": "2025-11-06",
+        "publicUrl": "https://www.xiaohongshu.com/explore/690c349e0000000004017c16"
+      },
+      {
+        "order": 19,
+        "noteId": "6909bd0d0000000005001846",
+        "title": "美股AI科技公司的泡沫到底有多大？",
+        "date": "2025-11-04",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6909bd0d0000000005001846"
+      },
+      {
+        "order": 21,
+        "noteId": "6902f6090000000004007a0a",
+        "title": "我要考虑放弃VOO和QQQ了",
+        "date": "编辑于 2025-11-15",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6902f6090000000004007a0a"
+      },
+      {
+        "order": 23,
+        "noteId": "68ff0d6800000000030392e9",
+        "title": "30岁有100万买些什么能够50岁退休？",
+        "date": "2025-10-27",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68ff0d6800000000030392e9"
+      },
+      {
+        "order": 24,
+        "noteId": "68fafdb100000000070341c4",
+        "title": "猫笔刀老师被CRS税了,香港券商还能开吗",
+        "date": "编辑于 2025-11-12",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68fafdb100000000070341c4"
+      },
+      {
+        "order": 25,
+        "noteId": "68f8681c0000000007036e2d",
+        "title": "美股券商开户了能买些啥呢",
+        "date": "编辑于 02-02",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68f8681c0000000007036e2d"
+      },
+      {
+        "order": 26,
+        "noteId": "68f6f9440000000004007b5e",
+        "title": "谁跟你说女人不会管钱的？记住这些斗嘴再也",
+        "date": "2025-10-21",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68f6f9440000000004007b5e"
+      },
+      {
+        "order": 27,
+        "noteId": "68f5d1a3000000000300c8da",
+        "title": "为啥钱都流向了不缺钱的人",
+        "date": "2025-10-20",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68f5d1a3000000000300c8da"
+      },
+      {
+        "order": 28,
+        "noteId": "68f1c97c000000000302f0af",
+        "title": "别说投资，大部分人连理财都不会",
+        "date": "编辑于 2025-11-07",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68f1c97c000000000302f0af"
+      },
+      {
+        "order": 29,
+        "noteId": "68ef38e0000000000700d1dd",
+        "title": "我终于知道你们喜欢看啥了",
+        "date": "2025-10-15",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68ef38e0000000000700d1dd"
+      },
+      {
+        "order": 30,
+        "noteId": "68ea0aa90000000004023257",
+        "title": "美股大崩溃",
+        "date": "2025-10-11",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68ea0aa90000000004023257"
+      },
+      {
+        "order": 31,
+        "noteId": "68d3bbbe0000000012033540",
+        "title": "美股券商、港卡出入金相关一次性说清楚",
+        "date": "编辑于 02-03",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68d3bbbe0000000012033540"
+      },
+      {
+        "order": 32,
+        "noteId": "68d2116a0000000013006977",
+        "title": "英伟达又新高了，各种开户规则更紧了，还不抓",
+        "date": "编辑于 05-22",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68d2116a0000000013006977"
+      }
+    ],
+    "资产配置": [
+      {
+        "order": 3,
+        "noteId": "698053b1000000002801e67a",
+        "title": "周五因为黄白我输掉了全部，35岁的我还有机",
+        "date": "编辑于 02-02",
+        "publicUrl": "https://www.xiaohongshu.com/explore/698053b1000000002801e67a"
+      },
+      {
+        "order": 4,
+        "noteId": "696dc0c3000000001a026b0f",
+        "title": "人生终极最佳资产配置策略",
+        "date": "01-19",
+        "publicUrl": "https://www.xiaohongshu.com/explore/696dc0c3000000001a026b0f"
+      },
+      {
+        "order": 9,
+        "noteId": "6936a8c1000000001e02f234",
+        "title": "632分配法更适合普通人的理财分配 一般...",
+        "date": "2025-12-08",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6936a8c1000000001e02f234"
+      },
+      {
+        "order": 10,
+        "noteId": "69327c2b000000001e031245",
+        "title": "新手必看！永久投资组合3000万持仓基金盘点",
+        "date": "2025-12-05",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69327c2b000000001e031245"
+      },
+      {
+        "order": 11,
+        "noteId": "692eda7f00000000190247c9",
+        "title": "28岁手上有80万如何进行资产配置",
+        "date": "2025-12-02",
+        "publicUrl": "https://www.xiaohongshu.com/explore/692eda7f00000000190247c9"
+      },
+      {
+        "order": 14,
+        "noteId": "691ed977000000001d03b894",
+        "title": "30岁500万家庭资产配置股票篇",
+        "date": "编辑于 01-18",
+        "publicUrl": "https://www.xiaohongshu.com/explore/691ed977000000001d03b894"
+      },
+      {
+        "order": 17,
+        "noteId": "69117d56000000000402b6de",
+        "title": "美股跌、黄金跌美债也不涨什么情况？钱要放",
+        "date": "2025-11-10",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69117d56000000000402b6de"
+      },
+      {
+        "order": 23,
+        "noteId": "68ff0d6800000000030392e9",
+        "title": "30岁有100万买些什么能够50岁退休？",
+        "date": "2025-10-27",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68ff0d6800000000030392e9"
+      },
+      {
+        "order": 30,
+        "noteId": "68ea0aa90000000004023257",
+        "title": "美股大崩溃",
+        "date": "2025-10-11",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68ea0aa90000000004023257"
+      }
+    ],
+    "AI与科技股": [
+      {
+        "order": 4,
+        "noteId": "696dc0c3000000001a026b0f",
+        "title": "人生终极最佳资产配置策略",
+        "date": "01-19",
+        "publicUrl": "https://www.xiaohongshu.com/explore/696dc0c3000000001a026b0f"
+      },
+      {
+        "order": 7,
+        "noteId": "69450283000000001e032b66",
+        "title": "28岁大厂辞职后的我第一件事就是研究纳指",
+        "date": "2025-12-19",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69450283000000001e032b66"
+      },
+      {
+        "order": 8,
+        "noteId": "693e5122000000001e00dca7",
+        "title": "因为爱看reddit我的炒股水平已经无人能敌了",
+        "date": "2025-12-14",
+        "publicUrl": "https://www.xiaohongshu.com/explore/693e5122000000001e00dca7"
+      },
+      {
+        "order": 12,
+        "noteId": "6926dea6000000001e00851c",
+        "title": "硅谷教父KAPI全面清仓英伟达",
+        "date": "2025-11-26",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6926dea6000000001e00851c"
+      },
+      {
+        "order": 19,
+        "noteId": "6909bd0d0000000005001846",
+        "title": "美股AI科技公司的泡沫到底有多大？",
+        "date": "2025-11-04",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6909bd0d0000000005001846"
+      },
+      {
+        "order": 20,
+        "noteId": "69086af10000000004005186",
+        "title": "吃个炸鸡给我整爆仓了!?韩国炸鸡是英伟达的",
+        "date": "2025-11-03",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69086af10000000004005186"
+      },
+      {
+        "order": 21,
+        "noteId": "6902f6090000000004007a0a",
+        "title": "我要考虑放弃VOO和QQQ了",
+        "date": "编辑于 2025-11-15",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6902f6090000000004007a0a"
+      },
+      {
+        "order": 27,
+        "noteId": "68f5d1a3000000000300c8da",
+        "title": "为啥钱都流向了不缺钱的人",
+        "date": "2025-10-20",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68f5d1a3000000000300c8da"
+      },
+      {
+        "order": 32,
+        "noteId": "68d2116a0000000013006977",
+        "title": "英伟达又新高了，各种开户规则更紧了，还不抓",
+        "date": "编辑于 05-22",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68d2116a0000000013006977"
+      }
+    ],
+    "书单与知识输入": [
+      {
+        "order": 5,
+        "noteId": "695baa6e0000000022009f50",
+        "title": "别人推荐的理财书，这些我好像真看懂了",
+        "date": "01-05",
+        "publicUrl": "https://www.xiaohongshu.com/explore/695baa6e0000000022009f50"
+      },
+      {
+        "order": 6,
+        "noteId": "694bcb88000000001e024dff",
+        "title": "普通人如何才能拥有一千万呢？",
+        "date": "编辑于 2025-12-24",
+        "publicUrl": "https://www.xiaohongshu.com/explore/694bcb88000000001e024dff"
+      },
+      {
+        "order": 8,
+        "noteId": "693e5122000000001e00dca7",
+        "title": "因为爱看reddit我的炒股水平已经无人能敌了",
+        "date": "2025-12-14",
+        "publicUrl": "https://www.xiaohongshu.com/explore/693e5122000000001e00dca7"
+      }
+    ],
+    "券商港卡与出入金": [
+      {
+        "order": 13,
+        "noteId": "69217cf2000000001e013907",
+        "title": "时间的玫瑰-小白应该如何开始定投纳指？",
+        "date": "编辑于 2025-11-22",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69217cf2000000001e013907"
+      },
+      {
+        "order": 16,
+        "noteId": "691430c10000000007036181",
+        "title": "美股小资金如何迅速做大",
+        "date": "2025-11-12",
+        "publicUrl": "https://www.xiaohongshu.com/explore/691430c10000000007036181"
+      },
+      {
+        "order": 22,
+        "noteId": "69008d430000000007021eb4",
+        "title": "我该在场内还是场外买标普指数呀？QDII啥意",
+        "date": "编辑于 2025-10-29",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69008d430000000007021eb4"
+      },
+      {
+        "order": 24,
+        "noteId": "68fafdb100000000070341c4",
+        "title": "猫笔刀老师被CRS税了,香港券商还能开吗",
+        "date": "编辑于 2025-11-12",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68fafdb100000000070341c4"
+      },
+      {
+        "order": 25,
+        "noteId": "68f8681c0000000007036e2d",
+        "title": "美股券商开户了能买些啥呢",
+        "date": "编辑于 02-02",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68f8681c0000000007036e2d"
+      },
+      {
+        "order": 26,
+        "noteId": "68f6f9440000000004007b5e",
+        "title": "谁跟你说女人不会管钱的？记住这些斗嘴再也",
+        "date": "2025-10-21",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68f6f9440000000004007b5e"
+      },
+      {
+        "order": 31,
+        "noteId": "68d3bbbe0000000012033540",
+        "title": "美股券商、港卡出入金相关一次性说清楚",
+        "date": "编辑于 02-03",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68d3bbbe0000000012033540"
+      },
+      {
+        "order": 32,
+        "noteId": "68d2116a0000000013006977",
+        "title": "英伟达又新高了，各种开户规则更紧了，还不抓",
+        "date": "编辑于 05-22",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68d2116a0000000013006977"
+      }
+    ],
+    "杠杆ETF与波动损耗": [
+      {
+        "order": 15,
+        "noteId": "6915b33e0000000007034d35",
+        "title": "TQQQ vs QLD vsQQQ 长持or定投磨损哥叫",
+        "date": "2025-11-13",
+        "publicUrl": "https://www.xiaohongshu.com/explore/6915b33e0000000007034d35"
+      },
+      {
+        "order": 20,
+        "noteId": "69086af10000000004005186",
+        "title": "吃个炸鸡给我整爆仓了!?韩国炸鸡是英伟达的",
+        "date": "2025-11-03",
+        "publicUrl": "https://www.xiaohongshu.com/explore/69086af10000000004005186"
+      }
+    ],
+    "税务与合规": [
+      {
+        "order": 18,
+        "noteId": "690c349e0000000004017c16",
+        "title": "CRS全球资产征税：海外投资要求补税、金额",
+        "date": "2025-11-06",
+        "publicUrl": "https://www.xiaohongshu.com/explore/690c349e0000000004017c16"
+      },
+      {
+        "order": 24,
+        "noteId": "68fafdb100000000070341c4",
+        "title": "猫笔刀老师被CRS税了,香港券商还能开吗",
+        "date": "编辑于 2025-11-12",
+        "publicUrl": "https://www.xiaohongshu.com/explore/68fafdb100000000070341c4"
+      }
+    ]
+  }
+}
